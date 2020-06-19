@@ -1,0 +1,64 @@
+{
+    "title" : "Hello I'm Zahra!",
+    "subtitle": "Student | Engineer | Web developer",
+    "links":{
+        "github":"https://github.com/ZahraBazargani",
+        "instagram":"https://www.instagram.com/ZahraBazarganimanesh/"
+    },
+    "sections":[
+        {
+            "title" :"About",
+            "items":[
+                {
+                    "type" : "paragraph",
+                    "content1":"I am a computer engineering student at Ferdowsi university of mashhad.",
+                    "content2":"I would like to improve my web design skills.",
+                    "content3":"I'm interested in programming and I'm trying to make progress in this area.",
+                    "content4":"This page is my first project in github."
+                }
+            ]
+        },
+        {
+            "title" :"Skills",
+            "items":[
+                {
+                    "type" : "card",
+                    "content":{
+                        "image":"./logo512.png",
+                        "title" : "React"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content":{
+                        "image":"./css.png",
+                        "title" : "CSS"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content":{
+                        "image":"./html-5.png",
+                        "title" : "HTML"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content":{
+                        "image":"./bootstrap.png",
+                        "title" : "Bootstrap"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons" :{
+        "down" : "./down.png",
+        "theme":"./theme.png"
+    },
+    "sectionColor":{
+        "first":"first1",
+        "second":"second1",
+        "third":"third1"
+    }
+}
